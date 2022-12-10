@@ -1,2 +1,0 @@
-# wyzszaszkolarobieniahalasu
-do jetbrains
